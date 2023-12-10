@@ -1,6 +1,6 @@
-# my_app
+# flutter_todo_app
 
-A new Flutter project.
+A new Flutter project. Simple todo app to learn flutter and get familiar with dart
 
 ## Getting Started
 
